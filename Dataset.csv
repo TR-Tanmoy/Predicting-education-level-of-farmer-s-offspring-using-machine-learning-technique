@@ -1,0 +1,507 @@
+Timestamp,What's the farmer's name?,What's the age of the farmer?,How many family member;s do you have,How many childern's do you have?,How many spouses do you have?,What's the Farmer's education level?,What's the Farmer's wife educational level?,How many earning person presentation in the family?,Total family income in month-,Do you have any higher educational person in the family?,Do you have your own house?,What is the type of the house?,Do you have any extra incone source?,Amount of own land?,How much land does the farmer cultivate?,Do you work as a sharecroper in another's land?,Do you have any loan?,Is the farmer drag addicted?,Are the childern's drag addicted?,Is there any severely sick family member?,What is the time duration between home and school?,What is the educational background of farmer's offspring?
+6/23/2021 16:37,Md. Nur Hossain,51,5,2,1,AH,AC5BS,1,Medium,No,Yes,Brick_Built,Yes,8,4,No,No,No,No,No,Average,AH
+6/23/2021 16:49,Md. Ajit,55,5,3,1,Illiterate,Illiterate,3,Low,No,Yes,Mud_Built,No,1.5,3.5,Yes,Yes,No,No,No,Long,Illiterate
+6/23/2021 17:07,Md. Hobibor Rahman,57,4,2,2,Illiterate,BC5,2,Low,No,Yes,Mud_Built,No,2.1,3,Yes,Yes,No,No,No,Long,Illiterate
+6/23/2021 18:02,Md. Mofijur ,47,3,1,1,Illiterate,AC5BS,2,Low,No,Yes,Mud built,No,1.5,2,Yes,Yes,No,No,No,Long,AC5BS
+6/23/2021 18:09,Md. Tobibor Rahman,65,5,4,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,3,2,Yes,No,No,No,No,Long,Illiterate
+6/23/2021 19:16,Babur Ali,63,6,4,1,Illiterate,Illiterate,3,Low,No,Yes,Mud_Built,No,1,2,Yes,No,No,No,No,Average,Illiterate
+6/23/2021 22:25,Nur Islam,60,8,3,1,Illiterate,Illiterate,2,Low,No,Yes,Mud_Built,No,0.5,2,Yes,Yes,No,No,No,Long,Illiterate
+6/23/2021 22:30,Md. Usuf ALi,59,4,2,1,BC5,BC5,2,Low,No,Yes,Mud_Built,No,3,2,No,No,No,No,No,Long,AC5BS
+6/23/2021 22:32,Md. Shirazul Islam,48,6,2,1,BC5,AC5BS,1,Medium,No,Yes,Brick_Built,Yes,4,3,No,Yes,No,No,No,Long,ASBH
+6/23/2021 23:18,Md. Khalek,45,4,2,1,BC5,BC5,1,Low,No,Yes,Mud_Built,Yes,3,4,Yes,Yes,No,No,No,Long,AC5BS
+6/24/2021 22:50,Md. Shoidul,48,6,2,1,Illiterate,BC5,1,Low,No,Yes,Brick_Built,Yes,1.3,2.5,Yes,Yes,No,No,No,Average,AH
+6/23/2021 22:32,Md. Shazidul Islam,48,6,2,1,BC5,AC5BS,1,Low,No,Yes,Brick built,Yes,3,2,No,Yes,No,No,No,Long,ASBH
+7/6/2021 17:59,Lutfer Rahman,65,6,3,1,Illiterate,Illiterate,1,Low,No,Yes,Mud built,No,2,3,Yes,No,No,No,No,Long,Illiterate
+6/24/2021 23:03,Md. Zamal Ali,47,5,2,1,Illiterate,BC5,2,Low,No,Yes,Brick_Built,Yes,2,2,Yes,Yes,No,Yes,No,Long,BC5
+6/24/2021 23:06,Md. Azgar Ali,50,6,3,1,BC5,BC5,2,Low,No,Yes,Brick_Built,No,3,3,No,Yes,No,Yes,No,Long,AC5BS
+6/23/2021 22:30,Md. Usuf ALi,59,4,2,1,Illiterate,Illiterate,2,Low,No,Yes,Mud built,No,4,3,No,No,No,No,No,Long,AC5BS
+6/24/2021 23:12,Abdul Roshid,54,4,2,1,ASBH,AC5BS,1,Medium,No,Yes,Brick_Built,Yes,7,4,No,No,No,No,No,Long,AH
+7/5/2021 20:23,Rulamin Potowari,45,4,2,1,Below Class 5,Illiterate,1,Low,No,Yes,Brick built,Yes,0.1,2,Yes,Yes,No,No,Yes,Long,Illiterate
+6/24/2021 23:16,Sadek Ali,58,5,2,1,Illiterate,BC5,1,Low,No,Yes,Mud_Built,No,2,2,Yes,Yes,No,No,No,Long,BC5
+6/24/2021 23:25,Md. Hafijur Rahman,63,6,3,1,BC5,AC5BS,2,High,Yes,Yes,Brick_Built,No,10,8,No,No,No,No,No,Average,AH
+6/24/2021 23:27,Md. Faijul,47,5,3,1,AC5BS,BC5,1,Medium,No,Yes,Brick_Built,No,4,5,Yes,No,No,No,No,Average,ASBH
+6/28/2021 19:50,Abdul Wadud,68,5,2,1,Illiterate,BC5,2,Low,No,Yes,Brick_Built,Yes,2,2,No,No,No,No,No,Average,BC5
+6/28/2021 19:52,Md. Fojlu Rahman,55,5,3,1,Illiterate,BC5,2,Low,No,Yes,Mud_Built,No,2,2,Yes,Yes,Yes,No,Yes,Average,BC5
+6/28/2021 19:56,Md. Dorud,45,4,2,1,BC5,BC5,2,Low,No,Yes,Brick_Built,No,3,2,No,Yes,No,No,No,Average,AC5BS
+6/28/2021 19:59,Shoidul islam,54,6,3,1,Illiterate,Illiterate,2,Low,No,Yes,Mud_Built,No,1,2,No,Yes,No,No,No,Average,Illiterate
+6/28/2021 20:08,Zarul Islam,55,5,3,1,Illiterate,BC5,1,Low,No,Yes,Brick_Built,No,2,2,Yes,No,Yes,No,No,Average,BC5
+6/28/2021 20:12,Rofi,45,4,2,1,BC5,BC5,1,Medium,No,Yes,Brick_Built,No,3,2,Yes,No,No,No,No,Average,AC5BS
+6/28/2021 20:14,Md. Rofikul,67,5,2,1,AC5BS,BC5,2,Medium,No,Yes,Brick_Built,No,4,3,Yes,No,No,No,No,Average,ASBH
+6/28/2021 20:18,Dullo,56,4,2,1,Illiterate,Illiterate,2,Low,No,Yes,Mud_Built,No,3,2,Yes,Yes,No,Yes,No,Average,AC5BS
+6/28/2021 20:21,Abu hauqe,70,6,4,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,1,2,Yes,No,No,No,No,Average,Illiterate
+6/28/2021 20:24,Mukter Ali,47,4,2,1,Illiterate,BC5,1,Low,No,Yes,Mud_Built,No,2,3,Yes,No,No,No,No,Average,BC5
+6/28/2021 20:26,Siddique,45,3,1,1,Illiterate,ASBH,1,Low,No,Yes,Brick_Built,No,3,2,No,No,No,No,No,Average,AC5BS
+6/28/2021 20:30,Hapo,46,4,1,1,Illiterate,Illiterate,2,Low,No,Yes,Mud_Built,No,2,2,Yes,Yes,No,No,No,Average,BC5
+6/28/2021 20:34,Alom,70,7,4,1,BC5,Illiterate,2,Medium,No,Yes,Mud_Built,No,2,3,No,Yes,No,Yes,No,Average,BC5
+6/28/2021 20:36,Roshid,67,5,2,1,Illiterate,Illiterate,2,Medium,No,Yes,Brick_Built,No,7,5,No,No,No,No,No,Average,AH
+6/24/2021 22:53,Md. Mojid Ali,57,6,3,1,BC5,Illiterate,2,Low,No,Yes,Mud built,Yes,2,4,Yes,Yes,No,No,No,Average,ASBH
+6/28/2021 20:40,Hamid Ali,53,5,2,1,Illiterate,Illiterate,2,Low,No,Yes,Mud_Built,No,2,1,No,No,No,No,No,Average,Illiterate
+6/28/2021 20:42,Amir Ali,58,6,3,1,Illiterate,BC5,2,Medium,No,Yes,Brick_Built,Yes,3,3,Yes,No,No,No,No,Average,AC5BS
+7/28/2021 23:44,Zamat Ali,55,8,3,1,BC5,AC5BS,3,Medium,Yes,Yes,Brick built,No,10,9,No,No,No,No,No,Average,AH
+6/28/2021 20:45,Md. Mosofber Ali,56,5,2,1,Illiterate,BC5,1,Low,No,Yes,Brick_Built,No,2,2,Yes,Yes,No,No,No,Average,BC5
+6/28/2021 20:46,Moshiar Ali,48,4,2,1,AC5BS,AH,1,High,Yes,Yes,Brick_Built,No,7,5,No,No,No,No,No,Average,AH
+6/28/2021 23:25,Satter Ali,52,7,4,2,BC5,AC5BS,2,Medium,No,Yes,Brick_Built,Yes,4,3,Yes,No,No,No,No,Average,ASBH
+6/28/2021 23:51,Roshid ALi boddo,67,6,3,1,Illiterate,BC5,1,Medium,No,Yes,Brick_Built,Yes,3,2,Yes,No,No,No,No,Average,AC5BS
+6/28/2021 23:57,Aktarul kobir,50,5,3,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,1,2,Yes,No,No,No,No,Average,Illiterate
+6/29/2021 0:04,Monirul islam,55,5,3,1,BC5,BC5,2,Medium,No,Yes,Brick_Built,No,3,2,Yes,Yes,No,Yes,Yes,Average,AC5BS
+6/29/2021 0:06,Dorud Ali,49,5,3,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,1,1.5,No,Yes,No,No,Yes,Average,Illiterate
+6/29/2021 0:12,Kalu,52,5,2,1,BC5,BC5,1,Low,No,Yes,Brick_Built,No,3,2,Yes,Yes,No,No,No,Average,AC5BS
+6/29/2021 0:15,Anser Ali,73,8,6,2,BC5,AC5BS,1,High,Yes,Yes,Brick_Built,No,12,9,No,No,No,No,No,Average,AH
+6/29/2021 0:18,Zamir Ali,59,8,3,1,BC5,AC5BS,1,High,Yes,Yes,Brick_Built,Yes,20,18,No,No,No,No,No,Average,AH
+6/29/2021 0:20,Amzad Ali,56,7,2,1,AC5BS,Illiterate,1,Medium,No,Yes,Brick_Built,Yes,2,3,Yes,No,No,No,No,Average,BC5
+6/29/2021 0:22,Md. Musa,49,5,2,1,Illiterate,BC5,1,Low,No,Yes,Brick_Built,No,2,3,Yes,No,No,No,No,Average,BC5
+6/29/2021 0:23,Md. Taizul Islam,60,6,3,1,AC5BS,AC5BS,2,High,Yes,Yes,Brick_Built,No,6,5,No,Yes,No,No,No,Long,AH
+6/29/2021 0:25,Md. Golam Mostofa,55,9,3,2,BC5,BC5,3,Medium,No,Yes,Brick_Built,Yes,2.5,2,Yes,Yes,No,No,No,Long,AC5BS
+6/29/2021 0:27,Nurul Islam,57,7,5,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,1,3,Yes,Yes,No,No,No,Long,BC5
+6/29/2021 0:29,Md. Mofijur islam,52,6,3,1,Illiterate,Illiterate,2,Low,No,Yes,Mud_Built,Yes,2,2,Yes,Yes,No,No,No,Average,BC5
+7/1/2021 19:25,Md. Moksed Ali,45,5,2,1,BC5,BC5,1,Medium,No,Yes,Brick_Built,Yes,4,3,Yes,No,No,No,No,Average,ASBH
+7/1/2021 19:29,Md.Mizan,59,8,6,1,Illiterate,Illiterate,2,Low,No,Yes,Mud_Built,No,0.15,3,Yes,Yes,No,No,No,Average,Illiterate
+7/2/2021 19:16,Md. Majed Ali,62,5,3,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,2,3,Yes,Yes,No,No,No,Average,Illiterate
+7/2/2021 19:34,Md. Akber Gazi,65,9,5,1,Illiterate,Illiterate,3,High,No,Yes,Mud built,No,12,11,No,No,No,No,No,Average,ASBH
+7/2/2021 19:24,Md. Samad Ali,67,6,4,2,Illiterate,Illiterate,2,Low,No,Yes,Mud_Built,Yes,0.6,1,Yes,Yes,No,No,No,Average,Illiterate
+7/2/2021 19:28,Md. Mizanur Gazi,68,10,7,2,ASBH,BC5,1,Medium,No,Yes,Brick_Built,No,4,4.5,Yes,No,No,No,No,Average,ASBH
+7/2/2021 19:30,Hasem Gazi,70,7,3,1,AC5BS,Illiterate,1,Medium,No,Yes,Brick_Built,No,4,3.5,No,Yes,No,No,No,Average,Illiterate
+7/2/2021 19:34,Md. Akber Gazi,55,6,2,1,Illiterate,BC5,2,Low,No,Yes,Mud_Built,No,0.15,3,Yes,Yes,No,No,No,Average,AH
+7/2/2021 19:37,Md. Afser Ali,56,5,3,1,BC5,AC5BS,1,Medium,No,Yes,Brick_Built,No,4,3,No,Yes,No,No,No,Average,ASBH
+7/2/2021 19:41,Md. Rizaul Gazi,57,5,3,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,1,2,Yes,Yes,No,No,No,Average,Illiterate
+7/2/2021 19:43,Md. Atier,60,6,3,2,BC5,BC5,3,Medium,No,Yes,Brick_Built,No,3,2,No,No,No,No,No,Long,AC5BS
+7/2/2021 19:46,Romjan Ali,63,7,5,1,Illiterate,Illiterate,2,Medium,No,Yes,Brick_Built,Yes,0.7,3,Yes,Yes,No,No,No,Average,Illiterate
+7/2/2021 19:47,Ajit Ali,67,6,4,1,AC5BS,BC5,2,Low,No,Yes,Mud_Built,No,1.5,1,No,No,No,No,No,Long,BC5
+7/2/2021 19:50,Mojid Ali,48,4,2,1,Illiterate,BC5,2,Low,No,Yes,Mud_Built,No,1,4,Yes,Yes,No,Yes,No,Long,Illiterate
+7/2/2021 19:51,Abdul Gofur,47,7,5,1,Illiterate,BC5,1,Low,No,Yes,Mud_Built,No,1.5,3,Yes,Yes,No,No,No,Long,BC5
+7/2/2021 19:53,Ropikul,58,6,2,1,Illiterate,BC5,2,Medium,No,Yes,Brick_Built,No,2,3,Yes,Yes,No,No,No,Long,BC5
+7/2/2021 19:57,Rohim Ali,80,7,5,2,Illiterate,Illiterate,2,Low,No,Yes,Mud_Built,No,1.5,1,No,Yes,No,No,No,Long,Illiterate
+7/2/2021 19:59,Aijul Islam,64,8,6,1,BC5,BC5,2,Medium,No,Yes,Brick_Built,No,3,2,No,No,No,No,No,Long,AC5BS
+7/2/2021 20:02,Mohammad Ali,70,6,3,1,Illiterate,Illiterate,1,Low,No,Yes,Brick_Built,No,2,2,Yes,No,No,No,No,Long,BC5
+7/2/2021 20:04,Abdul high,55,6,2,1,BC5,Illiterate,1,Medium,No,Yes,Mud_Built,No,2,2,Yes,Yes,No,No,No,Average,BC5
+7/2/2021 20:06,Abdul Ohid,60,5,3,1,Illiterate,Illiterate,1,High,Yes,Yes,Brick_Built,No,13,12,No,No,No,No,No,Average,AH
+7/2/2021 20:08,Amirul Islam,62,8,6,1,BC5,Illiterate,2,Low,No,Yes,Mud_Built,No,2,3,Yes,No,No,No,No,Average,BC5
+7/2/2021 20:11,Ammad Ali,56,7,5,2,BC5,BC5,2,Medium,No,Yes,Mud_Built,No,3,3,Yes,Yes,No,No,No,Long,AC5BS
+7/2/2021 20:13,Idris Ali,58,5,3,1,Illiterate,BC5,1,Low,No,Yes,Mud_Built,No,2,3,Yes,Yes,No,No,No,Long,BC5
+7/2/2021 20:28,Mukter Ali,70,10,8,1,AC5BS,BC5,2,High,No,Yes,Mud built,No,12,10,No,No,No,No,No,Average,ASBH
+7/2/2021 20:19,Jomat Ali,55,4,1,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,1.5,1,No,No,No,No,No,Average,Illiterate
+7/2/2021 20:22,Ohab Ali,70,6,4,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,3,2,No,Yes,No,No,No,Average,Illiterate
+7/2/2021 20:24,Rofikul islam,70,6,4,2,Illiterate,Illiterate,2,Low,No,Yes,Mud_Built,No,1,2,Yes,No,No,No,Yes,Average,Illiterate
+7/2/2021 20:26,Anisur,67,6,4,1,BC5,BC5,2,Low,No,Yes,Brick_Built,Yes,3,4,Yes,Yes,No,Yes,No,Average,AC5BS
+7/2/2021 20:28,Mukter Ali,69,7,5,1,BC5,BC5,1,High,No,Yes,Brick_Built,No,3,2,No,No,No,No,No,Average,AC5BS
+7/2/2021 20:31,Abdul jolil,66,7,5,1,BC5,Illiterate,1,High,No,Yes,Brick_Built,No,3,3,No,No,No,No,No,Average,AC5BS
+7/2/2021 20:33,Anisur Rahman,76,7,4,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,1.5,2.5,Yes,Yes,No,No,No,Average,Illiterate
+7/2/2021 20:35,Kased Ali,60,6,3,1,Illiterate,Illiterate,3,Low,No,No,Mud_Built,No,1.5,3.5,Yes,No,No,No,No,Average,Illiterate
+7/2/2021 20:37,Abed Ali,55,5,3,1,BC5,Illiterate,1,Low,No,Yes,Brick_Built,No,2,2,Yes,Yes,No,No,No,Average,BC5
+7/2/2021 20:39,Aynal Ali,67,6,3,1,Illiterate,Illiterate,2,Low,No,Yes,Brick_Built,No,1,2.5,No,No,No,No,No,Average,Illiterate
+7/2/2021 20:40,Soleman Ali,66,7,5,1,Illiterate,Illiterate,1,Low,No,No,Brick_Built,No,0.5,3,Yes,Yes,No,No,No,Long,Illiterate
+7/2/2021 20:42,Moksed Ali,45,5,3,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,1.5,2,Yes,Yes,No,No,No,Long,Illiterate
+7/2/2021 20:47,Amin,50,4,2,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,1,3,Yes,Yes,No,No,No,Average,BC5
+7/2/2021 20:52,Israfil Ali,60,4,2,1,Illiterate,BC5,2,Low,No,Yes,Mud_Built,No,2,3,Yes,No,No,No,Yes,Long,BC5
+7/2/2021 20:55,Motiar Rahman,56,5,3,1,AC5BS,BC5,1,Medium,No,Yes,Brick_Built,No,3,3,Yes,No,No,No,No,Long,AC5BS
+7/2/2021 20:57,Akimoddi Ali,64,5,3,1,BC5,BC5,1,Medium,No,Yes,Brick_Built,No,3,4,Yes,No,No,No,No,Long,AC5BS
+7/4/2021 19:22,Md. Mahfuzar Rahman,48,5,2,1,AC5BS,BC5,2,Low,No,Yes,Brick built,Yes,4,2,No,No,No,No,No,Short,ASBH
+7/2/2021 21:00,Arshad Ali,51,4,2,1,ASBH,AC5BS,1,Medium,Yes,Yes,Brick_Built,No,1,1.5,Yes,No,No,No,No,Short,AH
+7/2/2021 21:02,Jubber Ali,47,4,2,1,AC5BS,BC5,1,Medium,No,Yes,Brick_Built,No,4,3,No,No,No,No,No,Short,ASBH
+7/2/2021 21:05,Korim Ali,52,4,2,1,AC5BS,BC5,1,Medium,Yes,Yes,Brick_Built,No,7,5,No,No,No,No,No,Short,AH
+7/2/2021 21:07,Jofor Ali,46,6,3,1,AC5BS,BC5,2,Medium,No,Yes,Brick_Built,Yes,3,2,No,Yes,No,No,Yes,Short,AC5BS
+7/3/2021 8:31,Abdul jolil,42,5,2,1,BC5,BC5,2,Medium,No,Yes,Brick_Built,Yes,4,3,No,No,No,No,Yes,Short,ASBH
+7/3/2021 23:57,Abdus Samad,53,6,3,2,BC5,AC5BS,3,Medium,No,Yes,Brick_Built,Yes,3,4,Yes,Yes,No,No,No,Short,AC5BS
+7/4/2021 0:01,Md. Shabur Ali,59,5,2,1,BC5,BC5,2,Medium,No,Yes,Mud_Built,No,3,3,Yes,Yes,No,No,Yes,Short,AC5BS
+7/4/2021 0:07,Abdul Goni,57,4,2,1,BC5,Illiterate,2,Low,No,Yes,Mud_Built,No,1,2,Yes,Yes,No,No,No,Long,Illiterate
+7/4/2021 19:17,Md. Lutfar Rahman,65,7,4,1,Illiterate,BC5,2,Medium,No,Yes,Brick_Built,Yes,1.5,4,Yes,No,No,No,Yes,Long,AC5BS
+7/4/2021 19:20,Md. Hobibor Gain,60,5,3,1,AC5BS,BC5,1,Medium,No,Yes,Brick_Built,Yes,10,30,Yes,Yes,No,No,No,Long,AH
+7/4/2021 19:22,Md. Mahfuzar Rahman,70,7,3,1,AC5BS,AC5BS,2,Medium,No,Yes,Brick_Built,Yes,16,15,No,No,No,No,No,Long,AH
+7/4/2021 19:24,Md. Amir,75,8,5,1,BC5,AC5BS,1,Medium,No,Yes,Brick_Built,No,4,3,No,No,No,No,No,Long,ASBH
+7/4/2021 19:39,Md. Shamsur Rahman,65,7,4,1,BC5,Illiterate,2,Medium,No,Yes,Brick_Built,No,2,2.5,Yes,Yes,No,No,No,Average,BC5
+7/5/2021 19:38,Abdul Ohab,65,8,4,1,BC5,Illiterate,2,Medium,No,Yes,Brick_Built,No,2,2.5,Yes,Yes,No,No,No,Long,BC5
+7/5/2021 19:39,Omed All,60,7,4,1,Illiterate,Illiterate,2,Medium,No,Yes,Brick_Built,No,3,2,Yes,Yes,No,No,No,Long,AC5BS
+7/5/2021 19:41,Md. Foijur Rahman,55,6,3,2,AC5BS,BC5,1,Medium,No,Yes,Brick_Built,No,4,3,No,Yes,No,No,No,Long,ASBH
+7/5/2021 19:43,Eliza Ali,72,10,7,1,Illiterate,Illiterate,1,Low,No,Yes,Brick_Built,No,1.5,2,Yes,Yes,No,No,No,Long,Illiterate
+7/5/2021 19:45,Samad Gazi,60,5,3,1,BC5,BC5,1,Low,No,Yes,Brick_Built,No,3,2.5,No,Yes,No,No,No,Long,AC5BS
+7/5/2021 19:48,Nosimoddi Ali,60,5,3,1,AC5BS,BC5,1,Low,No,Yes,Mud_Built,No,4,3,Yes,Yes,No,No,No,Long,ASBH
+7/5/2021 19:51,Asman,45,6,4,1,Illiterate,BC5,1,Low,No,Yes,Brick_Built,No,0.1,2,Yes,Yes,No,No,No,Long,BC5
+7/5/2021 19:53,Yarab,60,4,2,1,AC5BS,BC5,1,Low,No,Yes,Brick_Built,No,3.5,5,Yes,Yes,No,No,Yes,Long,ASBH
+7/5/2021 19:55,Ijjat Mollic,70,6,4,1,Illiterate,Illiterate,1,Low,No,Yes,Brick_Built,No,2,5,No,No,No,No,No,Long,BC5
+7/5/2021 19:57,Fourdaus Mollic,55,3,1,1,Illiterate,Illiterate,2,Low,No,Yes,Mud_Built,No,1.5,4,Yes,No,No,No,No,Long,Illiterate
+7/5/2021 19:59,Shiraj Ali,70,6,4,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,0.1,2,Yes,No,No,No,No,Long,Illiterate
+7/5/2021 20:01,Kobir Mollic,50,4,2,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,0.1,3,Yes,No,No,No,No,Long,Illiterate
+7/5/2021 20:03,Mujam Mollic,55,4,2,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,0.1,2,Yes,No,No,No,No,Long,Illiterate
+7/5/2021 19:45,Samad Gazi,75,8,5,1,BC5,Illiterate,1,Medium,No,Yes,Brick built,No,6,5,No,No,No,No,No,Long,ASBH
+7/5/2021 20:06,Muntaz Mollic,50,5,3,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,1.5,7,Yes,No,No,No,No,Long,AC5BS
+7/5/2021 20:08,Mina Mollic,80,7,5,1,Illiterate,Illiterate,2,Low,No,Yes,Mud_Built,No,0.1,4,Yes,No,No,No,No,Long,Illiterate
+7/5/2021 20:09,Ojed Gazi,59,5,3,1,Illiterate,Illiterate,1,Low,No,Yes,Brick_Built,No,0.1,1.5,Yes,Yes,No,No,No,Long,ASBH
+7/5/2021 20:11,Rasheed Gazi,65,5,3,1,Illiterate,BC5,1,Low,No,Yes,Brick_Built,No,3,1.5,No,No,No,No,No,Long,AC5BS
+7/5/2021 20:13,Azizur Mollic,45,4,2,1,BC5,Illiterate,1,Low,No,Yes,Brick_Built,Yes,0.1,2,Yes,Yes,No,No,Yes,Long,Illiterate
+7/5/2021 20:15,Shoid patowari,45,4,2,1,Illiterate,BC5,1,Low,No,No,Mud_Built,No,0.1,5,Yes,Yes,No,No,No,Long,ASBH
+7/5/2021 20:17,Zolil patowari,60,6,4,1,AC5BS,BC5,2,Medium,No,Yes,Brick_Built,No,3,4,No,No,No,No,No,Long,AC5BS
+7/5/2021 20:18,Siddik patowari,60,5,3,1,Illiterate,BC5,1,Low,No,Yes,Brick_Built,No,0.1,2,Yes,No,No,No,Yes,Long,Illiterate
+7/5/2021 20:19,Zamal Morol,55,5,2,1,BC5,ASBH,2,Medium,Yes,Yes,Brick_Built,Yes,8,6,No,No,No,No,Yes,Long,AH
+7/5/2021 20:21,Sobi Patowari,40,4,1,1,BC5,BC5,2,Medium,No,Yes,Brick_Built,Yes,4,3,No,Yes,No,No,Yes,Short,ASBH
+7/5/2021 20:25,Sultan Dhabok,38,4,2,1,ASBH,AC5BS,1,Medium,No,Yes,Brick_Built,Yes,3,2,No,No,No,No,No,Short,AC5BS
+7/5/2021 20:26,Lutfer Dhabok,52,8,5,2,AC5BS,BC5,4,High,Yes,Yes,Brick_Built,Yes,15,12,No,No,No,No,No,Short,AH
+7/5/2021 20:29,Abusar Dhabok,65,6,3,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,1,3,Yes,No,No,No,No,Long,Illiterate
+7/5/2021 20:40,MD:Mujibor Rahman,56,5,3,1,Illiterate,Illiterate,2,Low,No,Yes,Mud_Built,No,4,3,Yes,Yes,No,No,No,Long,ASBH
+7/6/2021 17:19,Md. Sahanjan,45,4,2,1,Illiterate,BC5,1,Low,No,Yes,Mud_Built,No,0.1,2,Yes,Yes,Yes,No,No,Long,AC5BS
+7/6/2021 17:22,Md. Jamal Uddin,55,5,2,1,AC5BS,BC5,2,Medium,No,Yes,Brick_Built,No,4,3,No,No,No,No,No,Average,ASBH
+7/6/2021 17:26,Md. Sattar,48,5,3,1,Illiterate,Illiterate,1,Medium,Yes,Yes,Brick_Built,Yes,1,1,Yes,No,No,No,No,Short,Illiterate
+7/5/2021 20:25,Sultan Dhabok ,45,4,2,1,Illiterate,BC5,1,Low,No,No,Mud built,No,0.1,5,Yes,Yes,No,No,No,Long,ASBH
+7/6/2021 18:01,Rizaul Islam,60,7,5,1,BC5,Illiterate,2,Medium,No,Yes,Brick_Built,No,2,3,Yes,No,No,No,No,Short,BC5
+7/6/2021 18:03,Zamal Ali,63,9,7,1,Illiterate,Illiterate,2,Low,No,Yes,Mud_Built,No,2,1.5,No,Yes,No,No,No,Short,Illiterate
+7/6/2021 19:25,MD:Liton Hossen,68,10,6,1,Illiterate,Illiterate,2,Low,No,Yes,Mud_Built,No,1,0.5,Yes,Yes,No,No,Yes,Short,Illiterate
+7/6/2021 19:27,MD:Motier Rahman,60,4,2,1,BC5,BC5,2,Low,No,Yes,Mud_Built,No,2,2,Yes,Yes,No,Yes,No,Short,BC5
+7/6/2021 23:30,Rafizul Islam,52,4,2,1,Illiterate,Illiterate,2,Low,No,Yes,Mud_Built,No,1,1,No,Yes,No,No,No,Short,Illiterate
+7/6/2021 23:34,Aziz,40,4,2,1,Illiterate,BC5,1,Low,No,Yes,Brick_Built,No,2,1.5,No,Yes,No,No,No,Short,BC5
+7/6/2021 23:38,Karim,42,4,2,2,Illiterate,BC5,1,Low,No,Yes,Brick_Built,No,2,3,Yes,Yes,Yes,No,No,Short,BC5
+7/7/2021 1:38,Malek,55,4,2,1,Illiterate,Illiterate,2,Low,No,Yes,Mud_Built,No,1,1,Yes,Yes,No,Yes,No,Short,Illiterate
+7/7/2021 1:41,Mannan,30,3,1,1,AC5BS,ASBH,1,Low,No,Yes,Mud_Built,No,1,0.5,Yes,Yes,No,No,No,Short,Illiterate
+7/7/2021 1:43,Majid,65,5,3,1,AC5BS,Illiterate,2,Low,No,Yes,Brick_Built,No,4,3,Yes,Yes,No,No,No,Short,ASBH
+7/7/2021 1:45,Idris,67,5,2,1,Illiterate,Illiterate,2,Low,No,Yes,Mud_Built,No,1,0.5,Yes,Yes,No,No,Yes,Short,Illiterate
+7/7/2021 11:10,Machine,46,5,2,1,AH,AH,1,High,Yes,Yes,Brick_Built,Yes,10,7,No,Yes,No,No,No,Short,AH
+7/7/2021 11:12,Suntan,56,6,1,1,AC5BS,BC5,2,Medium,No,Yes,Brick_Built,Yes,4,4,No,Yes,No,No,No,Short,ASBH
+7/7/2021 11:14,Mizan,44,5,1,1,BC5,Illiterate,2,Low,No,Yes,Mud_Built,Yes,2,2,No,Yes,Yes,No,No,Short,BC5
+7/7/2021 11:16,Ripon,52,7,2,1,AC5BS,BC5,2,Medium,No,Yes,Brick_Built,No,5,6,Yes,Yes,No,Yes,No,Short,ASBH
+7/7/2021 11:25,Habu,59,5,2,1,Illiterate,Illiterate,2,Low,No,Yes,Mud_Built,No,1.5,2,No,Yes,No,Yes,No,Short,Illiterate
+7/7/2021 11:26,Geda,57,8,4,1,Illiterate,Illiterate,2,Low,No,Yes,Mud_Built,No,1,2,Yes,Yes,No,No,Yes,Short,Illiterate
+7/7/2021 11:29,Razzak,54,8,6,2,Illiterate,BC5,1,Low,No,Yes,Brick_Built,No,2,2,No,Yes,Yes,No,No,Short,BC5
+7/7/2021 11:33,Israfil,55,4,1,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,Yes,1,2,No,Yes,Yes,No,No,Short,Illiterate
+7/7/2021 11:35,Mintu,45,4,2,1,BC5,Illiterate,1,Medium,No,Yes,Brick_Built,No,2,3,Yes,Yes,No,No,No,Short,BC5
+7/7/2021 11:36,Shahjahan,47,5,2,1,Illiterate,BC5,1,Medium,Yes,Yes,Brick_Built,No,2,2.5,Yes,Yes,No,No,No,Short,BC5
+7/7/2021 11:38,Malek,46,7,3,1,Illiterate,BC5,1,Medium,No,Yes,Mud_Built,Yes,2,3,Yes,Yes,No,No,No,Short,BC5
+7/7/2021 11:40,Munnan,55,4,2,1,AC5BS,BC5,1,Medium,No,Yes,Brick_Built,No,4,3,No,Yes,No,Yes,Yes,Short,ASBH
+7/7/2021 11:43,Ali Azgar,61,5,3,2,Illiterate,Illiterate,2,Low,No,Yes,Brick_Built,No,1,2,Yes,Yes,Yes,No,Yes,Short,Illiterate
+7/7/2021 11:46,Jasim,68,6,4,2,ASBH,AC5BS,2,Medium,Yes,Yes,Brick_Built,No,8,6,No,No,Yes,No,Yes,Average,AH
+7/7/2021 11:47,Azim,48,4,2,1,BC5,Illiterate,1,Medium,No,Yes,Brick_Built,No,2,3,Yes,No,No,No,Yes,Short,BC5
+7/9/2021 19:46,Md. Rafiqul Molla,42,4,2,1,ASBH,BC5,1,Medium,No,Yes,Brick built,Yes,5,2,No,No,No,No,No,Short,ASBH
+7/7/2021 11:50,Shafiqul,46,5,3,1,AC5BS,BC5,1,Medium,Yes,Yes,Brick_Built,Yes,8,7,No,No,Yes,No,No,Short,AH
+7/7/2021 11:52,Alam,39,5,2,1,AC5BS,AC5BS,1,Medium,Yes,Yes,Brick_Built,Yes,7,7,No,Yes,No,No,Yes,Short,AH
+7/7/2021 11:54,Nur Islam,59,4,1,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,1,1,No,No,No,No,No,Average,Illiterate
+7/7/2021 14:17,Md.Kowsar Ali,42,4,2,1,AC5BS,BC5,1,Medium,No,Yes,Brick_Built,Yes,4,4,No,No,No,No,No,Short,ASBH
+7/9/2021 19:36,Md. Sayem Sardar,61,6,3,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,2,1,No,No,No,No,Yes,Average,Illiterate
+7/9/2021 19:38,Md. Nazrul Sardar,45,5,3,1,BC5,BC5,1,Low,No,Yes,Brick_Built,Yes,3,3,Yes,No,No,No,No,Average,AC5BS
+7/29/2021 0:22,Akimoddin Ali,53,5,3,1,BC5,BC5,2,Medium,No,Yes,Brick built,Yes,7,6.5,No,No,No,No,No,Long,AH
+7/9/2021 19:41,Md. Shahidul Mir,62,7,3,1,Illiterate,Illiterate,2,Low,No,Yes,Mud_Built,No,1,2,No,No,No,No,No,Short,Illiterate
+7/9/2021 19:43,Md. Rasel Mir,52,6,3,2,BC5,BC5,2,Medium,No,No,Brick_Built,Yes,3,4,No,No,No,No,No,Short,AC5BS
+7/9/2021 19:44,Md. Sahbaz Sardar,55,4,2,1,Illiterate,Illiterate,1,Low,No,No,Mud_Built,No,0.5,2,Yes,Yes,No,No,No,Average,Illiterate
+7/9/2021 19:46,Md. Rafiqul Molla,44,4,2,1,AC5BS,ASBH,1,Medium,No,Yes,Brick_Built,Yes,4,3,No,Yes,Yes,No,No,Short,ASBH
+7/9/2021 19:49,Md. Shirajul Gaji,50,6,3,1,BC5,AC5BS,2,Medium,No,Yes,Brick_Built,Yes,3,3,Yes,Yes,No,No,Yes,Short,AC5BS
+7/9/2021 20:02,Md. Fazlu Gaji,60,4,2,1,Illiterate,Illiterate,2,Medium,Yes,No,Brick_Built,No,0.12,2,Yes,Yes,No,No,No,Average,AH
+7/9/2021 20:03,Md. Manirul Islam,65,5,3,1,BC5,BC5,2,Medium,Yes,Yes,Brick_Built,Yes,7,5,Yes,Yes,No,No,No,Average,AH
+7/9/2021 20:04,Md. Harun Molla,70,4,1,1,BC5,BC5,1,Medium,No,Yes,Brick_Built,Yes,2,3,Yes,No,No,No,No,Average,BC5
+7/9/2021 20:06,Md. Saddam Molla,50,4,2,1,ASBH,ASBH,1,Medium,No,Yes,Brick_Built,No,7,6,No,No,No,No,No,Long,AH
+7/9/2021 20:07,Md. Nuru Molla,45,4,2,1,ASBH,BC5,2,High,No,Yes,Brick_Built,No,9,8,No,No,No,No,No,Long,AH
+7/9/2021 20:08,Md. Aktarul Molla,54,3,1,1,Illiterate,Illiterate,1,Low,No,No,Mud_Built,No,2,2,Yes,No,No,No,No,Long,BC5
+7/9/2021 20:10,Md. Fazlu Molla,67,7,5,1,Illiterate,Illiterate,4,Medium,No,Yes,Brick_Built,No,2,3,Yes,No,No,Yes,No,Long,BC5
+7/9/2021 20:35,MD:Serajul Islam,50,4,2,1,BC5,BC5,2,Medium,No,Yes,Brick_Built,Yes,4,3,No,No,No,No,No,Long,ASBH
+7/9/2021 20:39,MD:Arijul islam,53,6,4,1,BC5,Illiterate,2,Low,No,Yes,Mud_Built,No,2,2,Yes,Yes,No,No,No,Long,BC5
+7/9/2021 20:51,Mohasin Ali,70,4,2,1,Illiterate,BC5,1,Low,No,Yes,Mud_Built,No,2,2.5,Yes,No,No,No,No,Long,BC5
+7/9/2021 20:52,Joynal Rahman,47,6,1,1,Illiterate,Illiterate,2,Low,No,Yes,Mud_Built,No,2,3,Yes,Yes,No,No,No,Long,BC5
+7/9/2021 20:54,Sot Nadon,60,5,3,2,Illiterate,Illiterate,2,Medium,No,Yes,Brick_Built,No,4,3,No,No,No,No,No,Long,ASBH
+7/9/2021 20:56,Samad Ali,50,6,4,1,BC5,BC5,1,Medium,No,Yes,Brick_Built,No,3,2,No,No,No,No,No,Long,AC5BS
+7/9/2021 20:58,Afil Uddin,67,3,1,1,BC5,BC5,1,Medium,No,Yes,Brick_Built,No,3,3,No,No,No,No,No,Long,AC5BS
+7/9/2021 21:00,Kader Ali,70,6,4,1,AH,AC5BS,2,Medium,Yes,Yes,Brick_Built,Yes,16,15,No,No,No,No,No,Long,AH
+7/9/2021 21:16,Kuddud Ali,47,4,2,1,AC5BS,BC5,1,Medium,No,Yes,Brick built,No,5,4,No,No,No,No,No,Long,ASBH
+7/9/2021 21:03,Shahajan Ali,65,5,3,1,AC5BS,AC5BS,2,Medium,No,Yes,Brick_Built,Yes,10,9,No,No,No,No,No,Long,AH
+7/29/2021 1:22,Abdul Samad ,58,4,2,1,BC5,Illiterate,1,Low,No,Yes,Brick built,No,2,7,Yes,No,No,No,Yes,Long,AH
+7/9/2021 21:09,Hobibor Rahman,70,6,4,1,Illiterate,Illiterate,2,Medium,No,Yes,Brick_Built,No,3,2,No,No,No,No,No,Long,AC5BS
+7/9/2021 21:10,Hossain Ali,55,5,3,1,Illiterate,Illiterate,1,Medium,No,Yes,Brick_Built,No,4,4,Yes,No,No,No,No,Long,ASBH
+7/9/2021 21:12,Ohab Ali,50,5,3,1,ASBH,BC5,1,Medium,Yes,Yes,Brick_Built,No,15,14,No,No,No,No,No,Long,AH
+7/9/2021 21:14,Moiroddin Ali,60,4,2,1,AC5BS,BC5,1,High,Yes,Yes,Brick_Built,No,22,20,No,No,No,No,No,Long,AH
+7/9/2021 21:16,Kuddud Ali,55,5,3,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,3,2.5,No,No,No,No,No,Long,AC5BS
+7/9/2021 21:17,Soroar Rahman,57,5,3,1,BC5,BC5,1,Medium,No,Yes,Brick_Built,No,3,2.5,No,No,No,Yes,No,Long,AC5BS
+7/5/2021 20:18,Siddik patowari,71,7,5,1,Illiterate,Illiterate,2,Low,No,Yes,Mud built,No,0.1,4,Yes,No,No,No,No,Long,Illiterate
+7/9/2021 21:20,Adom Sofiullah,40,5,2,1,AC5BS,AC5BS,1,Low,Yes,Yes,Brick_Built,No,4,4,Yes,No,No,No,Yes,Average,ASBH
+7/9/2021 21:21,Md. Kader Ali,56,7,2,2,BC5,BC5,2,Low,No,Yes,Brick_Built,No,2,3,Yes,Yes,Yes,No,Yes,Average,AC5BS
+7/9/2021 21:23,Saiyeber Ali,38,5,3,1,Illiterate,BC5,1,Low,No,Yes,Mud_Built,Yes,2,2,Yes,Yes,Yes,No,Yes,Average,BC5
+7/9/2021 21:24,Nur Islam,70,4,2,1,BC5,BC5,2,Medium,No,Yes,Brick_Built,Yes,2,2,No,Yes,No,Yes,No,Average,BC5
+7/9/2021 21:25,Motier Ali,53,5,3,1,AC5BS,BC5,1,Low,Yes,Yes,Mud_Built,No,10,7,No,Yes,No,No,No,Average,AH
+7/9/2021 21:27,Abdul khalek,45,6,4,1,BC5,Illiterate,2,Low,No,Yes,Brick_Built,No,1,3,No,Yes,No,No,No,Average,ASBH
+7/5/2021 20:08,Mina Mollic,55,3,1,1,Illiterate,Illiterate,2,Low,No,Yes,Mud built,No,1.5,4,Yes,No,No,No,No,Long,Illiterate
+7/9/2021 21:28,Nur hossain,30,5,2,1,AC5BS,BC5,1,Low,Yes,Yes,Mud_Built,No,3,2,No,Yes,No,No,No,Average,AC5BS
+7/9/2021 21:30,Abdul Shobhan,42,4,2,1,ASBH,AC5BS,1,Medium,Yes,Yes,Brick_Built,No,4,3,No,No,No,No,No,Average,ASBH
+7/11/2021 13:08,Unus Ali,47,5,3,1,AC5BS,BC5,2,Medium,Yes,Yes,Brick_Built,No,10,7,Yes,No,No,No,Yes,Average,AH
+7/12/2021 12:56,Salamot molla,58,6,3,1,BC5,Illiterate,2,Medium,Yes,Yes,Mud_Built,No,1.5,1,Yes,No,No,No,No,Long,AH
+7/12/2021 12:59,Mohor,45,4,2,1,AC5BS,BC5,2,Medium,No,Yes,Brick_Built,No,3,2,Yes,No,No,No,No,Long,AC5BS
+7/12/2021 13:00,moktar ali,59,4,1,1,AC5BS,Illiterate,1,Low,Yes,Yes,Mud_Built,No,7,5,No,Yes,No,No,No,Average,AH
+7/13/2021 19:45,MD:Shahidul Islam,51,5,3,1,ASBH,BC5,1,Low,Yes,Yes,Mud_Built,No,1.5,1,No,No,No,No,No,Long,AH
+7/2/2021 20:35,Kased Ali,70,6,4,1,Illiterate,Illiterate,1,Low,No,Yes,Mud built,No,2.5,2,No,Yes,No,No,No,Average,Illiterate
+7/24/2021 16:01,Md Moslem Hossain,45,4,2,1,ASBH,AC5BS,1,Medium,Yes,Yes,Mud_Built,No,10,8,No,No,No,No,No,Short,AH
+7/25/2021 21:36,Md Harun,61,9,3,1,AC5BS,Illiterate,3,Medium,No,Yes,Mud_Built,No,4,3,No,Yes,No,No,Yes,Average,ASBH
+7/25/2021 21:40,Md Jamal Hossain,52,6,3,1,ASBH,BC5,3,Medium,Yes,Yes,Brick_Built,No,7,5,No,No,No,No,Yes,Average,AH
+7/25/2021 21:43,Ahad Gazi,48,5,3,1,ASBH,AC5BS,3,Medium,Yes,Yes,Brick_Built,No,8,6,No,No,No,No,No,Average,AH
+7/25/2021 21:44,Insar Gazi,55,5,1,1,BC5,AC5BS,1,Low,No,Yes,Mud_Built,No,3,2,Yes,Yes,No,No,No,Long,AC5BS
+7/29/2021 1:42,Md. Waliullah ,50,5,3,1,AH,AC5BS,1,High,Yes,Yes,Brick built,Yes,8,7,No,No,No,No,No,Long,AH
+7/25/2021 21:50,Kowsar Bisas,59,6,3,1,Illiterate,Illiterate,2,Medium,No,Yes,Brick_Built,No,1,2.5,No,No,No,No,No,Long,Illiterate
+7/26/2021 21:27,Mosharraf Hossain,40,4,2,1,Illiterate,Illiterate,2,Low,No,Yes,Brick_Built,No,3,4,Yes,Yes,No,Yes,No,Long,AC5BS
+7/26/2021 21:29,Amzad Hossain,47,4,2,1,Illiterate,Illiterate,1,Low,No,Yes,Brick_Built,No,1,1,No,No,No,Yes,No,Long,Illiterate
+7/26/2021 21:31,Hassan ali,40,4,2,1,Illiterate,Illiterate,2,Medium,No,Yes,Brick_Built,No,3,3.5,Yes,No,No,Yes,No,Long,AC5BS
+7/26/2021 21:48,Md. Panjab Moral,65,5,3,1,Illiterate,Illiterate,1,Low,No,Yes,Brick_Built,No,0,2,Yes,Yes,Yes,No,No,Long,Illiterate
+7/26/2021 21:50,Md.kader Gazi,46,4,1,1,BC5,BC5,2,Low,No,Yes,Brick_Built,No,3,2,Yes,Yes,Yes,No,No,Long,AC5BS
+7/26/2021 21:52,Hamid Sordar,40,4,2,1,BC5,BC5,1,Medium,No,Yes,Brick_Built,Yes,3,2,No,No,Yes,No,No,Long,AC5BS
+7/26/2021 21:55,Irfan Ali,59,4,2,1,BC5,BC5,1,Medium,No,Yes,Brick_Built,Yes,3,2,No,No,Yes,Yes,No,Long,AC5BS
+7/27/2021 9:51,Md Soriful Islam,41,4,2,1,Illiterate,BC5,1,Low,No,Yes,Brick_Built,Yes,3,2.6,No,No,No,Yes,No,Long,AC5BS
+7/27/2021 9:53,Md Aminur Islam,47,5,3,1,BC5,BC5,1,Medium,No,Yes,Brick_Built,Yes,3,2,No,No,Yes,No,Yes,Long,AC5BS
+7/27/2021 9:55,Md Amir Hossain,50,5,3,1,Illiterate,BC5,2,Low,No,Yes,Brick_Built,Yes,3,2,No,Yes,Yes,No,No,Long,AC5BS
+7/27/2021 16:18,Abu Daud,45,4,2,1,AH,AH,1,Medium,No,Yes,Brick_Built,No,7,5,No,No,No,No,No,Long,AH
+7/27/2021 16:20,Md Ruhul Amin,53,5,3,1,BC5,BC5,2,Medium,No,Yes,Brick_Built,Yes,7,6.5,No,No,No,No,No,Long,AH
+7/27/2021 16:22,Md Ruhul Kuddus,54,4,2,1,BC5,BC5,1,Medium,No,Yes,Brick_Built,No,3,3.6,No,No,No,Yes,No,Long,AC5BS
+7/28/2021 23:41,Md. Rasel hossen,60,4,2,1,ASBH,AC5BS,2,Medium,No,Yes,Brick_Built,No,3,2,No,No,Yes,Yes,No,Long,AC5BS
+7/28/2021 23:44,Zamat Ali,61,9,5,2,BC5,AC5BS,4,Medium,No,Yes,Brick_Built,Yes,8,7.6,No,No,No,No,No,Long,ASBH
+7/28/2021 23:48,Abur Ali,59,10,5,1,Illiterate,Illiterate,3,Low,No,Yes,Brick_Built,No,2,2.5,Yes,Yes,Yes,Yes,No,Long,BC5
+7/28/2021 23:53,Md. Dukhe Mia,56,4,2,1,Illiterate,Illiterate,1,Low,No,Yes,Brick_Built,No,1,2,No,No,No,Yes,No,Long,Illiterate
+7/28/2021 23:56,Md. Akkas Ali,49,4,2,1,Illiterate,Illiterate,1,Low,No,Yes,Brick_Built,No,1,2.7,No,Yes,Yes,No,No,Long,Illiterate
+7/28/2021 23:58,Md. Shopikul Islam,55,6,1,1,Illiterate,Illiterate,3,Low,No,Yes,Brick_Built,No,1,1.8,No,No,No,No,No,Long,Illiterate
+7/29/2021 0:00,Md. Amin,60,6,3,1,AC5BS,BC5,1,Low,No,Yes,Brick_Built,No,3,3,No,No,No,No,No,Long,AC5BS
+7/29/2021 0:02,Md. Malek,57,4,1,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,2,1.7,Yes,Yes,No,No,No,Long,AC5BS
+7/29/2021 0:05,Md. Ripon,54,5,2,1,Illiterate,Illiterate,2,Low,No,Yes,Brick_Built,Yes,1,1,No,Yes,Yes,Yes,No,Long,Illiterate
+7/29/2021 0:10,Md. Year Ali,60,7,4,1,AC5BS,ASBH,3,High,No,Yes,Brick_Built,Yes,10,10,No,No,No,No,No,Long,AH
+7/29/2021 0:14,Md. Kurban Ali,47,6,2,1,BC5,BC5,3,Low,No,Yes,Mud_Built,No,2,3,Yes,Yes,No,No,No,Long,AC5BS
+7/29/2021 0:16,Md. Rizaul Ali,48,2,1,1,Illiterate,BC5,2,Medium,No,Yes,Brick_Built,Yes,7,5,No,No,Yes,Yes,No,Long,AH
+7/29/2021 0:22,Akimoddin Ali,55,5,3,1,Illiterate,BC5,1,Low,No,Yes,Mud_Built,Yes,3,2,No,No,No,No,No,Long,AC5BS
+7/29/2021 0:27,Md. Sulaiman,55,5,2,1,BC5,BC5,1,Medium,No,Yes,Brick_Built,No,4,4,No,No,Yes,Yes,Yes,Long,ASBH
+7/29/2021 0:28,Md. Moksed Ali,50,4,2,1,Illiterate,BC5,1,Medium,Yes,Yes,Brick_Built,No,10,8,No,No,No,No,Yes,Long,AH
+7/29/2021 0:30,Md. Israfil Ali,46,5,3,1,Illiterate,BC5,1,Low,No,Yes,Brick_Built,No,3,2,Yes,No,No,No,No,Long,AC5BS
+7/29/2021 0:32,Anis Gazi,59,7,3,1,BC5,AC5BS,3,Low,No,Yes,Brick_Built,No,10,12,Yes,Yes,Yes,Yes,No,Long,AH
+7/29/2021 0:34,Atier Ali,55,4,2,1,BC5,BC5,1,Medium,No,Yes,Brick_Built,No,7,4,Yes,Yes,Yes,No,No,Long,AH
+7/29/2021 0:36,Motier Ali,58,5,3,1,Illiterate,Illiterate,2,High,No,Yes,Brick_Built,Yes,2,3,Yes,Yes,Yes,No,No,Long,BC5
+7/29/2021 0:38,Md. Shamin Ali,47,3,1,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,Yes,1,3,Yes,No,No,Yes,No,Long,Illiterate
+7/29/2021 0:39,Zubaer Ali,57,5,3,1,BC5,Illiterate,3,Low,No,Yes,Brick_Built,Yes,2,3,Yes,No,Yes,No,No,Long,AC5BS
+7/29/2021 0:41,Tahajjat Ali,48,4,2,1,Illiterate,Illiterate,2,Low,No,Yes,Mud_Built,Yes,1,2,No,No,No,Yes,No,Long,Illiterate
+7/29/2021 0:43,Abdul Jobber,50,5,3,1,Illiterate,Illiterate,3,Medium,No,Yes,Brick_Built,No,3,2,No,No,No,Yes,No,Long,AC5BS
+7/29/2021 0:45,Elias Hossain,56,4,2,1,ASBH,AC5BS,1,High,Yes,Yes,Brick_Built,Yes,10,15,Yes,No,No,No,No,Long,AH
+7/29/2021 0:47,Aktarul Ali,48,5,2,1,Illiterate,Illiterate,2,Low,No,Yes,Brick_Built,Yes,1,2,Yes,Yes,Yes,No,No,Long,Illiterate
+7/29/2021 0:49,Md. Mohor Ali,55,3,2,1,BC5,Illiterate,2,High,No,Yes,Brick_Built,Yes,3,4,No,No,No,No,No,Long,AC5BS
+7/29/2021 0:51,Md. Sher Ali,58,4,2,1,BC5,Illiterate,1,Low,Yes,Yes,Brick_Built,No,7,7,Yes,No,No,No,Yes,Long,AH
+7/29/2021 0:54,Md. Tojazmel,57,5,3,1,BC5,Illiterate,1,Medium,No,Yes,Brick_Built,Yes,4,3,Yes,No,No,No,No,Long,ASBH
+7/29/2021 0:56,Md. Shamsurjjaman,60,4,2,1,Illiterate,Illiterate,3,Medium,No,Yes,Brick_Built,No,1,3,Yes,No,No,No,No,Long,Illiterate
+7/29/2021 0:58,Tobibor Rahman,56,4,2,1,BC5,BC5,2,Medium,No,Yes,Brick_Built,No,3,4,Yes,No,No,Yes,No,Long,AC5BS
+7/29/2021 1:00,Md. Kowsar Ali,58,5,2,1,Illiterate,Illiterate,2,Medium,No,Yes,Brick_Built,Yes,2,3,No,Yes,No,No,No,Long,BC5
+7/29/2021 1:02,Md. Mejar Ali,57,6,3,1,BC5,BC5,2,Medium,No,Yes,Brick_Built,Yes,3,3,No,Yes,No,Yes,Yes,Long,AC5BS
+7/29/2021 1:06,Abdul Goffer,59,6,3,1,Illiterate,Illiterate,2,Low,No,Yes,Brick_Built,No,1,2,No,No,No,No,No,Long,Illiterate
+7/30/2021 20:23,Md Omor Ali,55,5,3,1,BC5,Illiterate,2,Medium,Yes,Yes,Mud built,No,3,2,No,No,No,No,No,Average,AH
+7/29/2021 1:10,Md. Assam Mondol,56,4,2,1,Illiterate,BC5,1,Medium,No,Yes,Brick_Built,No,3,2,No,No,No,No,No,Long,AC5BS
+7/29/2021 1:12,Md. Din Mohammed,50,5,3,1,AH,AC5BS,1,High,Yes,Yes,Brick_Built,Yes,8,7,No,No,No,No,No,Long,AH
+7/29/2021 1:13,Md. Nosim Ali,67,7,4,1,Illiterate,Illiterate,3,Medium,No,Yes,Brick_Built,No,2,2,No,Yes,No,No,Yes,Long,BC5
+7/29/2021 1:15,Nurul Mollah,59,5,3,2,Illiterate,Illiterate,2,Low,No,Yes,Mud_Built,No,1,1,No,No,No,No,No,Long,Illiterate
+7/29/2021 1:17,Md. Hazrat Ali,50,7,3,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,1,2,Yes,Yes,No,No,No,Long,Illiterate
+7/29/2021 1:18,Md. Faizul,60,6,3,1,Illiterate,BC5,1,Low,No,Yes,Brick_Built,No,4,4,No,No,No,No,No,Long,ASBH
+7/29/2021 1:20,Abdul Zobber,51,4,2,1,BC5,Illiterate,1,Low,No,Yes,Mud_Built,No,2,2,Yes,Yes,No,No,No,Long,BC5
+7/29/2021 1:21,Md. Amin Uddin,52,5,3,1,ASBH,AC5BS,1,Medium,No,Yes,Brick_Built,No,3,2,No,No,No,No,No,Long,AC5BS
+7/29/2021 1:22,Abdul Samad,50,7,3,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,1,2,Yes,Yes,No,No,Yes,Long,Illiterate
+7/29/2021 1:24,Md. Elias Hossen,60,12,4,1,BC5,BC5,2,Low,No,Yes,Brick_Built,Yes,3,4,Yes,No,No,No,No,Long,AC5BS
+7/29/2021 1:26,Md. Kader Morol,50,6,3,1,BC5,BC5,1,Low,No,Yes,Mud_Built,No,3,2,Yes,Yes,No,No,Yes,Long,AC5BS
+7/29/2021 1:27,Md. Abusar Ali,52,2,1,1,BC5,AC5BS,1,Medium,No,Yes,Brick_Built,No,2,3,Yes,No,No,No,No,Long,AC5BS
+7/29/2021 1:28,Tahajjat hossain,62,5,2,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,1,2,Yes,No,No,No,No,Long,Illiterate
+7/29/2021 1:29,Md. Rizaul korim,55,5,3,1,BC5,BC5,1,Medium,No,Yes,Brick_Built,No,2,4,Yes,Yes,Yes,No,Yes,Long,AC5BS
+7/29/2021 1:34,Md. Taijel,60,6,4,1,Illiterate,Illiterate,2,Low,No,Yes,Mud_Built,No,1,2,Yes,No,No,No,No,Long,Illiterate
+7/29/2021 1:37,Md. Babu,70,5,2,1,AC5BS,BC5,1,Medium,No,Yes,Mud_Built,No,4,3,No,Yes,No,No,Yes,Long,ASBH
+7/29/2021 1:39,Md. Taizul Islam,60,5,2,1,BC5,Illiterate,1,Low,No,Yes,Brick_Built,No,2,3,Yes,No,No,No,No,Long,AC5BS
+7/29/2021 1:40,Md. Alamin,55,6,4,1,BC5,AC5BS,1,Low,No,No,Mud_Built,No,2,3,Yes,Yes,No,No,No,Long,AC5BS
+7/29/2021 1:42,Md. Waliullah,50,7,4,1,Illiterate,BC5,2,Low,No,Yes,Mud_Built,No,2,3,Yes,Yes,No,No,No,Long,AC5BS
+6/28/2021 20:24,Mukter Ali ,70,6,4,1,Illiterate,Illiterate,1,Low,No,Yes,Mud built,No,3,2,No,No,No,No,No,Average,Illiterate
+7/29/2021 1:44,Shirajul Ali,52,4,1,1,AC5BS,AC5BS,1,Medium,No,Yes,Brick_Built,No,4,4,No,No,No,No,No,Long,ASBH
+7/29/2021 1:48,Md. Saber Ali,60,10,6,2,AC5BS,ASBH,1,Medium,No,Yes,Brick_Built,No,3,4,No,Yes,Yes,No,No,Long,AC5BS
+7/29/2021 10:50,Akber Uddin,70,10,4,1,AC5BS,BC5,2,High,Yes,Yes,Brick_Built,Yes,20,19,No,No,No,No,No,Long,AH
+7/29/2021 10:51,Md. Liakot Ali,55,10,4,1,AC5BS,BC5,2,Low,No,Yes,Brick_Built,No,4,3,No,Yes,No,No,No,Long,ASBH
+7/29/2021 10:53,Ismail Islam,75,10,6,1,ASBH,AC5BS,1,High,Yes,Yes,Brick_Built,Yes,30,28,No,No,No,No,No,Average,AH
+7/29/2021 10:59,Abdul Rahman,50,5,2,1,BC5,Illiterate,1,Low,No,Yes,Mud_Built,No,2,2,Yes,Yes,No,No,No,Average,BC5
+6/28/2021 20:24,Moksed Ali ,70,6,4,1,Illiterate,Illiterate,1,Low,No,Yes,Mud built,No,1,1,No,No,No,No,No,Average,Illiterate
+6/28/2021 20:24,Mukul Ali ,71,6,4,1,Illiterate,Illiterate,1,Low,No,Yes,Mud built,No,0.3,2,No,No,No,No,No,Average,Illiterate
+7/29/2021 11:00,Arijul islam,69,8,6,1,BC5,BC5,1,Low,No,Yes,Brick_Built,No,3,3,Yes,No,No,No,Yes,Long,AC5BS
+7/29/2021 11:02,Mujahar Ali,68,6,4,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,2,2,Yes,No,No,Yes,No,Long,BC5
+7/29/2021 11:03,Md. Shoihidul Islam,55,3,1,1,ASBH,AC5BS,1,Low,Yes,Yes,Brick_Built,No,3,2,No,No,Yes,No,No,Average,AC5BS
+7/29/2021 11:05,Zamal Uddin,50,4,2,1,AC5BS,ASBH,1,Low,No,Yes,Mud_Built,Yes,4,3,Yes,Yes,No,No,No,Long,ASBH
+6/23/2021 19:16,Babur Ali,63,6,4,1,Illiterate,Illiterate,3,Low,No,Yes,Mud built,No,2,3,Yes,No,No,No,No,Average,Illiterate
+7/29/2021 11:06,Md. Nur Islam,65,5,3,1,ASBH,AC5BS,1,High,Yes,Yes,Brick_Built,Yes,10,9,No,No,No,No,No,Long,AH
+7/29/2021 11:08,Abdur Razzak,50,5,3,1,AC5BS,BC5,1,Medium,No,Yes,Brick_Built,No,3,3,No,Yes,No,Yes,No,Long,AC5BS
+7/29/2021 11:11,Md. Azizur Rahman,51,6,3,1,AC5BS,AC5BS,1,Medium,No,Yes,Brick_Built,No,7,5,No,Yes,No,No,No,Long,AH
+7/29/2021 11:13,Abdul Jobber,55,12,8,2,BC5,BC5,1,Low,No,Yes,Mud_Built,No,1,3,Yes,Yes,No,No,No,Long,Illiterate
+7/29/2021 11:14,Atier Rahman,56,6,3,1,Illiterate,BC5,1,Low,No,Yes,Mud_Built,Yes,2,4,Yes,Yes,No,No,No,Average,BC5
+7/29/2021 11:16,Hafizur Rahman,56,7,5,1,ASBH,AC5BS,1,Low,No,Yes,Mud_Built,No,2,2,No,Yes,No,Yes,No,Short,BC5
+7/29/2021 11:18,Rofikul Islam,61,6,3,1,Illiterate,Illiterate,2,Low,No,Yes,Mud_Built,No,1,3,Yes,Yes,No,Yes,No,Average,Illiterate
+7/29/2021 11:19,Md. Foijur Rahman,71,7,4,2,Illiterate,Illiterate,3,Low,No,Yes,Mud_Built,No,1.5,3,Yes,Yes,No,Yes,Yes,Average,Illiterate
+7/29/2021 11:35,Md. Moslem Ali,30,3,1,1,AC5BS,BC5,1,Medium,No,Yes,Mud_Built,No,3,2.5,No,No,No,No,No,Average,AC5BS
+7/29/2021 11:36,Moksed Ali,61,8,5,1,Illiterate,Illiterate,1,Low,Yes,No,Mud_Built,No,1,2,Yes,Yes,No,No,No,Average,Illiterate
+7/29/2021 11:37,Abdul Satter,50,4,2,1,Illiterate,BC5,1,Low,No,Yes,Brick_Built,No,2,2,No,No,No,No,No,Average,BC5
+7/29/2021 11:39,Mujiber Rahman,55,5,3,1,BC5,Illiterate,2,Low,No,Yes,Mud_Built,No,2,2,No,No,No,No,No,Average,BC5
+7/29/2021 11:41,Moshiar Rahman,59,6,2,1,Illiterate,Illiterate,2,Medium,No,Yes,Mud_Built,No,3,2,No,No,No,No,No,Average,AC5BS
+7/29/2021 11:42,Akkas Ali,50,3,1,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,Yes,3,2.5,Yes,Yes,No,No,No,Long,AC5BS
+7/29/2021 11:44,Md. Majed Ali,66,4,2,1,Illiterate,Illiterate,3,Medium,No,Yes,Mud_Built,Yes,3,3,No,Yes,No,No,No,Long,AC5BS
+7/29/2021 11:45,Md. Siddiqul Islam,53,5,2,1,Illiterate,Illiterate,2,Medium,No,Yes,Brick_Built,Yes,2,2,Yes,Yes,No,No,No,Long,BC5
+7/29/2021 11:47,Haider Ali,48,4,2,1,AC5BS,AC5BS,3,Medium,No,Yes,Brick_Built,Yes,4,4,No,No,Yes,No,No,Long,ASBH
+7/29/2021 11:49,Munsur Rahman,50,6,2,1,Illiterate,Illiterate,3,Low,No,Yes,Mud_Built,Yes,1,3,Yes,Yes,Yes,Yes,No,Long,Illiterate
+7/29/2021 11:50,Zahir Uddin Lalu,62,6,2,1,AC5BS,Illiterate,3,Low,No,Yes,Brick_Built,Yes,3,3,No,No,No,No,No,Long,AC5BS
+7/9/2021 20:54,Sot Nadon,45,4,2,1,BC5,BC5,2,Medium,No,Yes,Brick built,No,9,8,No,No,No,No,No,Long,AH
+7/29/2021 11:55,Md. Aktarul Islam,47,3,1,1,Illiterate,Illiterate,1,Medium,No,Yes,Brick_Built,No,2,3,Yes,No,Yes,No,No,Long,BC5
+7/29/2021 11:57,Indadul Houqe,48,3,1,1,AH,AC5BS,1,High,No,Yes,Brick_Built,Yes,10,8,No,No,No,No,No,Long,AH
+7/29/2021 11:58,Lotifer Rahman,46,5,3,1,AC5BS,Illiterate,1,Medium,No,Yes,Brick_Built,No,4,3,No,No,No,No,No,Long,ASBH
+7/29/2021 12:00,Motier Rahman,45,4,1,1,AC5BS,AC5BS,1,Low,No,Yes,Brick_Built,Yes,2,2,Yes,Yes,No,No,No,Long,BC5
+7/29/2021 12:01,Mahabur Rahman,46,3,1,1,Illiterate,Illiterate,1,Low,No,Yes,Brick_Built,No,2,1.8,Yes,Yes,Yes,No,No,Long,AC5BS
+7/29/2021 12:04,Md. Mokles Ali,54,4,2,1,BC5,Illiterate,1,High,No,Yes,Brick_Built,Yes,3,3,No,No,No,Yes,No,Long,AC5BS
+7/29/2021 12:06,Md. Abbas Ali,52,3,1,1,BC5,Illiterate,1,Low,No,Yes,Brick_Built,No,2,2,Yes,Yes,No,Yes,No,Long,BC5
+7/29/2021 12:07,Kholilur Rahman,49,5,2,1,AC5BS,Illiterate,1,Medium,No,Yes,Mud_Built,Yes,3,2,Yes,No,No,No,No,Long,AC5BS
+7/30/2021 20:16,Md Shahin Gazi,41,4,1,1,Illiterate,AC5BS,1,Low,No,Yes,Mud_Built,Yes,1,2.4,Yes,No,No,No,No,Long,Illiterate
+7/30/2021 20:18,Md Anarul Islam,53,5,2,2,Illiterate,Illiterate,1,Low,No,Yes,Brick_Built,No,3,4,Yes,No,Yes,No,No,Long,AC5BS
+7/30/2021 20:20,Md Ayub Ali,50,4,2,1,ASBH,Illiterate,1,Medium,No,Yes,Brick_Built,Yes,4,3,No,Yes,No,No,No,Long,ASBH
+7/30/2021 20:23,Md Omor Ali,46,4,2,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,3,2.5,Yes,Yes,Yes,Yes,No,Long,AC5BS
+7/30/2021 20:25,Md Abu Daud,42,4,2,1,Illiterate,Illiterate,1,Low,No,Yes,Brick_Built,No,2,2,No,Yes,Yes,No,No,Long,BC5
+7/30/2021 22:23,Md. Habibur Rahman,50,5,3,1,AC5BS,AC5BS,1,Medium,No,Yes,Brick_Built,No,9,6,No,Yes,No,No,No,Long,AH
+7/30/2021 22:25,Md. Imadul Gazi,49,5,3,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,1,2.5,Yes,Yes,No,No,No,Short,Illiterate
+7/30/2021 22:28,Md. Moshiur Rahman,56,4,2,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,2,2,Yes,Yes,No,No,No,Long,BC5
+7/30/2021 22:31,Md. Atier Rahman,49,6,4,1,Illiterate,Illiterate,1,Medium,No,Yes,Brick_Built,No,3,2,No,No,No,No,No,Short,AC5BS
+7/30/2021 22:48,Md. Abdul Gazi,47,4,2,1,Illiterate,Illiterate,1,Medium,No,Yes,Brick_Built,No,2,2,Yes,Yes,No,No,No,Short,BC5
+7/30/2021 22:51,Md. Muntaz Ali,46,6,4,1,BC5,BC5,2,Medium,No,Yes,Brick_Built,Yes,4,3,No,No,No,No,No,Short,ASBH
+7/30/2021 22:53,Md. Ismail Hossain,44,4,2,1,BC5,Illiterate,1,Medium,No,Yes,Brick_Built,No,3,5,Yes,No,No,No,No,Short,AC5BS
+7/30/2021 22:55,Md. Nur Mohammed,47,6,4,1,AC5BS,AC5BS,1,Medium,Yes,Yes,Brick_Built,Yes,13,10,No,No,No,No,No,Short,AH
+7/30/2021 22:58,Md. Goffer Ali,42,4,2,1,AC5BS,AC5BS,1,Medium,Yes,Yes,Brick_Built,No,12,10,No,No,No,No,No,Short,AH
+7/30/2021 23:01,Md. Amin Hossain,42,5,3,1,Illiterate,Illiterate,1,Medium,No,Yes,Brick_Built,No,1,2,No,No,No,No,No,Short,Illiterate
+7/30/2021 23:02,Md. Mujiber Rahman,52,4,2,1,BC5,BC5,1,Medium,No,Yes,Brick_Built,No,3,2,Yes,No,No,No,No,Short,AC5BS
+7/30/2021 23:04,Md. Nazrul Islam,60,10,4,1,BC5,Illiterate,3,High,No,Yes,Brick_Built,Yes,2,3,No,No,No,Yes,Yes,Short,BC5
+7/30/2021 23:06,Md. Shazu Morol,52,7,5,1,AC5BS,BC5,1,High,Yes,Yes,Brick_Built,No,10,13,Yes,No,No,No,No,Short,AH
+7/30/2021 23:07,Md. Atter Ali,60,8,6,1,Illiterate,Illiterate,2,Medium,No,Yes,Brick_Built,No,1,3,Yes,No,No,No,No,Short,Illiterate
+7/30/2021 23:09,Md. Anower Ali,42,4,2,1,BC5,AC5BS,1,Medium,No,Yes,Brick_Built,No,2,3,Yes,No,No,No,No,Short,BC5
+7/30/2021 23:10,Md. Nur Mohammed,43,5,3,1,BC5,AC5BS,2,Medium,No,Yes,Brick_Built,No,3,2,No,No,No,Yes,No,Short,AC5BS
+7/30/2021 23:12,Md. Razzak Morol,42,4,2,1,AC5BS,AC5BS,1,Medium,No,Yes,Brick_Built,No,2,3,Yes,No,No,Yes,Yes,Short,BC5
+7/30/2021 23:14,Md. Mizanur Rahman,56,5,3,1,AC5BS,BC5,2,High,Yes,Yes,Brick_Built,Yes,12,13,Yes,No,No,No,No,Short,AH
+7/30/2021 23:15,Md. Liakot Ali,57,6,3,2,Illiterate,Illiterate,1,High,No,Yes,Brick_Built,Yes,1,2,Yes,No,Yes,Yes,No,Short,Illiterate
+7/30/2021 23:31,Md. Shoid Hossen,58,4,1,2,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,Yes,2,3,Yes,No,No,No,No,Short,BC5
+7/30/2021 23:36,Md. Kamrul Hossain,47,7,5,1,Illiterate,Illiterate,1,Medium,No,Yes,Brick_Built,No,3,3,No,No,No,No,No,Short,AC5BS
+7/30/2021 23:38,Md. Zabed Ali,39,3,1,1,AC5BS,AC5BS,1,Low,No,Yes,Mud_Built,No,2,3,Yes,No,Yes,No,Yes,Short,BC5
+7/30/2021 23:56,Md. Shahadad Ali,46,6,4,1,BC5,BC5,2,Medium,No,Yes,Brick built,Yes,9,8,No,No,No,No,No,Short,ASBH
+7/30/2021 23:41,Md. Sadek Ali,46,5,3,1,AC5BS,BC5,1,High,Yes,Yes,Brick_Built,No,14,12,No,No,No,No,No,Short,AH
+7/30/2021 23:42,Md. Durud Ali,52,6,4,1,Illiterate,Illiterate,2,Low,No,Yes,Mud_Built,No,1,2,Yes,Yes,No,No,Yes,Short,Illiterate
+7/30/2021 23:51,Md. Shohagh Hassan,47,4,2,1,AC5BS,BC5,1,High,Yes,Yes,Brick_Built,Yes,12,16,Yes,No,No,Yes,No,Short,AH
+7/30/2021 23:52,Kitab Bissah,47,5,3,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,1,2,Yes,Yes,Yes,No,No,Short,Illiterate
+7/30/2021 23:54,Md. Rohim Miya,50,7,5,1,Illiterate,Illiterate,1,Medium,No,Yes,Brick_Built,Yes,3,3,No,No,No,No,No,Short,AC5BS
+7/30/2021 23:55,Hazrat Ali,49,4,2,1,Illiterate,Illiterate,1,Low,No,No,Mud_Built,No,0,2.5,Yes,No,Yes,No,No,Short,Illiterate
+7/30/2021 23:56,Md. Shahadad Ali,46,5,3,1,BC5,Illiterate,1,Low,No,Yes,Mud_Built,No,2,3,Yes,Yes,No,Yes,No,Short,BC5
+7/30/2021 23:57,Md. Bozlu,44,3,1,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,1,2,Yes,Yes,No,No,No,Short,Illiterate
+7/30/2021 23:58,Goni Miya,45,5,3,2,BC5,BC5,1,Medium,No,Yes,Brick_Built,Yes,3,3,No,No,No,No,No,Short,AC5BS
+7/31/2021 0:00,Md. Shirajul Islam,55,5,1,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,1.5,3,Yes,Yes,No,Yes,No,Short,Illiterate
+7/31/2021 0:03,Shahajan,49,6,4,1,Illiterate,Illiterate,1,Low,No,No,Mud_Built,No,1,2.5,Yes,Yes,No,Yes,No,Short,Illiterate
+7/9/2021 19:44,Md. Sahbaz Sardar,45,4,1,1,AC5BS,Illiterate,1,Medium,Yes,Yes,Brick built,No,8,5,No,No,No,No,No,Average,AH
+7/31/2021 0:08,Nazrul Molla,48,5,3,1,Illiterate,BC5,1,Medium,No,Yes,Brick_Built,No,2,3,Yes,Yes,No,No,No,Short,BC5
+7/31/2021 0:12,Md. Liakot Ali,57,5,2,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,1,2,Yes,Yes,No,No,No,Short,Illiterate
+7/31/2021 0:14,Ojed Gain,51,4,2,1,Illiterate,BC5,1,Medium,No,Yes,Brick_Built,No,2,3,Yes,No,Yes,No,No,Short,BC5
+7/31/2021 0:15,Nazrul Islam,56,7,5,1,Illiterate,BC5,1,Low,No,Yes,Mud_Built,No,2,2,No,No,Yes,Yes,No,Short,BC5
+7/31/2021 0:17,Akber Ali,59,5,3,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,Yes,1,3,Yes,No,No,Yes,No,Short,Illiterate
+7/31/2021 0:18,Md. Zamat Ali,52,6,4,1,AC5BS,BC5,1,Medium,No,Yes,Brick_Built,No,4,3,No,No,No,No,No,Average,ASBH
+7/31/2021 0:19,Manik Gain,54,5,3,1,Illiterate,BC5,1,Low,No,Yes,Mud_Built,No,2,3,Yes,Yes,No,No,No,Short,BC5
+7/31/2021 0:21,Tahajjat Ali,51,7,5,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,1,2,Yes,No,No,No,No,Short,Illiterate
+7/31/2021 0:23,Anisur Rahman,58,5,3,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,1,3,Yes,Yes,No,No,No,Short,Illiterate
+7/31/2021 0:24,Alamgir kobir,46,4,2,1,AC5BS,AC5BS,1,Medium,No,Yes,Brick_Built,No,2,3,Yes,No,No,No,No,Short,BC5
+7/31/2021 0:26,Kasem Ali,62,5,3,1,AC5BS,ASBH,1,High,No,Yes,Brick_Built,No,14,13,No,No,No,No,No,Short,AH
+7/31/2021 0:27,Shoihidul Islam,52,9,6,2,Illiterate,BC5,1,Low,No,Yes,Brick_Built,No,2,3,Yes,No,Yes,No,No,Short,BC5
+7/31/2021 0:28,Shahin,60,4,2,1,Illiterate,Illiterate,1,Medium,No,Yes,Mud_Built,Yes,1,3,Yes,No,No,No,No,Long,Illiterate
+7/31/2021 0:29,Razzak Molla,47,4,2,1,AC5BS,AC5BS,1,Medium,Yes,Yes,Brick_Built,No,6,5,No,No,No,No,Yes,Short,AH
+7/31/2021 0:31,Mannan Mollah,54,6,3,2,Illiterate,BC5,1,Medium,No,Yes,Brick_Built,No,2,2.5,No,No,No,No,No,Short,BC5
+7/31/2021 0:32,Kasem Ali,47,5,3,1,BC5,BC5,2,Low,No,Yes,Mud_Built,No,2,3,Yes,Yes,No,Yes,No,Short,BC5
+7/31/2021 0:33,Alaish,48,8,6,1,BC5,Illiterate,1,Medium,No,Yes,Brick_Built,No,1.5,2,Yes,No,Yes,Yes,No,Short,Illiterate
+7/31/2021 0:34,Rohim Miya,52,5,3,1,Illiterate,BC5,1,Low,No,Yes,Brick_Built,No,2,2,No,No,No,No,No,Long,BC5
+7/31/2021 0:35,Lokman Gain,48,6,4,1,AC5BS,BC5,1,Medium,Yes,Yes,Brick_Built,No,9,12,Yes,No,No,No,No,Long,AH
+7/31/2021 0:36,Osman Miya,58,5,3,1,Illiterate,BC5,1,Low,No,Yes,Mud_Built,No,2.5,3,Yes,Yes,No,Yes,No,Short,BC5
+7/31/2021 0:38,Hanif Gazi,45,5,3,1,AC5BS,AC5BS,1,Low,No,Yes,Brick_Built,No,4,3,No,Yes,No,No,No,Average,ASBH
+7/31/2021 0:39,Bablu,50,5,3,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,1,2,Yes,Yes,No,No,No,Short,Illiterate
+7/31/2021 0:40,Tobibur Rahman,48,4,2,1,AC5BS,AC5BS,2,High,Yes,Yes,Brick_Built,Yes,10,10,No,No,No,No,No,Long,AH
+7/31/2021 0:41,Kabir islam,50,4,2,1,BC5,BC5,1,Low,No,Yes,Brick_Built,No,3,2,No,No,No,No,No,Long,AC5BS
+7/7/2021 11:52,Alam,42,5,3,1,Illiterate,BC5,1,Medium,No,Yes,Brick built,No,5,1,Yes,Yes,No,No,No,Short,AH
+7/31/2021 0:43,Afser Ali,63,8,5,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,1,2,Yes,No,No,No,No,Long,Illiterate
+7/31/2021 0:44,Kartik,50,5,2,1,AC5BS,AC5BS,1,Low,No,Yes,Brick_Built,No,4,3,No,Yes,No,No,Yes,Short,ASBH
+7/31/2021 0:45,Bimol,61,6,2,1,Illiterate,Illiterate,2,Low,No,Yes,Mud_Built,No,1,3,Yes,Yes,No,No,No,Long,Illiterate
+7/31/2021 0:46,Indrojit,62,6,3,1,Illiterate,Illiterate,2,Low,No,Yes,Mud_Built,No,2,3,No,No,No,No,No,Long,BC5
+7/31/2021 0:48,Binai gosh,57,6,3,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,Yes,1,2.5,Yes,Yes,No,No,No,Long,Illiterate
+7/31/2021 0:48,Raton Gosh,62,5,3,1,Illiterate,Illiterate,2,Low,No,No,Mud_Built,No,2.5,3.5,Yes,Yes,No,Yes,No,Long,BC5
+7/31/2021 0:49,Kawser,57,5,3,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,Yes,1,2,Yes,Yes,Yes,No,No,Long,Illiterate
+7/31/2021 0:52,Shoihidul,66,5,2,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,0.6,2,Yes,Yes,No,No,No,Long,Illiterate
+7/31/2021 0:53,Bhola,56,4,2,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,2,3,Yes,Yes,No,No,No,Long,BC5
+7/31/2021 0:55,Mofijur,55,4,2,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,1,2,No,Yes,No,No,No,Long,Illiterate
+7/31/2021 0:56,Monirul,45,6,2,1,AC5BS,BC5,1,Medium,No,Yes,Brick_Built,No,4,3,No,No,Yes,No,No,Short,ASBH
+7/31/2021 0:57,Imadul Gazi,50,6,2,1,Illiterate,Illiterate,3,Low,No,Yes,Brick_Built,Yes,2,3,Yes,Yes,Yes,Yes,No,Long,BC5
+7/31/2021 0:58,Saddam,57,6,3,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,1,2,No,Yes,Yes,No,No,Long,Illiterate
+7/31/2021 0:59,Ashadul Gain,50,4,2,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,1,3,Yes,No,No,No,No,Long,Illiterate
+7/31/2021 1:01,Shiraz,47,3,1,1,Illiterate,Illiterate,1,Medium,No,Yes,Brick_Built,No,2,2,No,No,Yes,No,No,Long,BC5
+7/31/2021 1:02,Hanef Gazi,61,5,1,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,Yes,1,2,Yes,Yes,No,No,No,Long,Illiterate
+7/30/2021 23:04,Md. Nazrul Islam,60,4,2,1,Illiterate,Illiterate,1,Medium,No,Yes,Brick built,Yes,7,6,No,No,No,No,No,Long,ASBH
+7/31/2021 1:04,Joynal Rahman,57,6,3,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,1.5,2,Yes,Yes,No,No,No,Long,Illiterate
+7/31/2021 1:05,Habibur Molla,56,4,1,1,Illiterate,BC5,1,Low,No,Yes,Mud_Built,No,2,2,No,No,Yes,Yes,No,Long,BC5
+7/2/2021 20:33,Anisur Rahman,55,4,1,1,BC5,BC5,1,Low,No,Yes,Mud built,No,1.5,1,No,No,No,No,No,Average,AH
+7/12/2021 12:59,Mohor,75,7,2,2,Illiterate,Illiterate,2,Low,No,Yes,Mud built,No,1,2,Yes,No,Yes,No,Yes,Average,Illiterate
+7/28/2021 23:56,Md. Akkas Ali,47,4,2,1,Illiterate,Illiterate,1,Low,No,Yes,Brick built,No,1,1,No,No,No,Yes,No,Long,Illiterate
+7/31/2021 1:10,Lokman Gazi,60,4,2,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,1,2.5,Yes,Yes,Yes,Yes,No,Long,Illiterate
+7/31/2021 1:11,Faruk,42,4,2,1,Illiterate,Illiterate,1,Low,No,Yes,Brick_Built,No,2,3,No,Yes,Yes,No,No,Long,BC5
+7/31/2021 1:12,Sobuj Ali,43,5,3,1,BC5,BC5,1,Medium,No,Yes,Brick_Built,No,4,3,No,No,No,Yes,No,Long,ASBH
+7/31/2021 1:13,Hasem Ali,62,5,3,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,1,2,No,Yes,No,No,No,Long,Illiterate
+7/31/2021 18:39,Provat Kumar pan,44,4,2,1,BC5,Illiterate,1,Medium,No,Yes,Brick_Built,No,3,4,Yes,No,No,No,No,Long,AC5BS
+7/31/2021 18:43,Subhas pan,58,4,1,2,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,Yes,2,3,Yes,No,No,No,No,Long,BC5
+7/31/2021 18:44,Ronojit pan,59,4,1,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,1,1,No,No,No,No,No,Short,Illiterate
+7/31/2021 18:46,Andando kumar pan,47,7,5,1,Illiterate,Illiterate,1,Medium,No,Yes,Brick_Built,No,3,2,No,No,No,No,No,Average,AC5BS
+7/31/2021 18:48,Tapon pan,46,5,2,1,AH,AH,1,High,Yes,Yes,Brick_Built,Yes,10,7,No,Yes,No,No,No,Long,AH
+7/31/2021 18:49,Sapon pan,62,5,3,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,1,2,No,Yes,No,No,No,Average,Illiterate
+7/31/2021 18:50,Ranjon pan,48,5,3,1,Illiterate,Illiterate,1,Medium,No,Yes,Brick_Built,No,3,3,Yes,No,No,No,No,Long,AC5BS
+7/31/2021 18:52,Sujit pan,60,5,3,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,1,3,Yes,Yes,No,No,No,Long,Illiterate
+7/31/2021 18:54,Milon Ghosh,46,4,2,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,3,2,Yes,Yes,Yes,Yes,No,Average,AC5BS
+8/2/2021 11:17,Md. Korim Ali,47,4,2,1,Illiterate,Illiterate,1,Medium,No,Yes,Brick_Built,No,2,2,Yes,Yes,No,No,No,Long,BC5
+8/2/2021 11:18,Md. Romjan Ali,52,8,5,2,AC5BS,BC5,4,High,Yes,Yes,Brick_Built,Yes,15,12,No,No,No,No,No,Long,AH
+7/29/2021 11:18,Rofikul Islam,60,4,2,1,AC5BS,AC5BS,1,Medium,No,Yes,Brick built,No,5,4,No,No,No,No,No,Long,ASBH
+8/2/2021 11:24,Md. Sattar hossain,61,5,2,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,Yes,1,2,Yes,Yes,No,No,No,Average,Illiterate
+8/2/2021 11:26,Md. Idris Morol,53,5,2,2,Illiterate,Illiterate,1,Low,No,Yes,Brick_Built,No,3,2,Yes,No,Yes,No,No,Average,AC5BS
+8/2/2021 11:30,MD. Jolil,59,5,3,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,1,2.5,Yes,Yes,No,No,No,Average,Illiterate
+8/2/2021 11:31,Rezaul Islam,49,5,2,1,AC5BS,Illiterate,1,Medium,No,Yes,Mud_Built,Yes,3,3,Yes,No,No,No,No,Average,AC5BS
+8/2/2021 11:35,Imad Gazi,60,4,2,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,1,2.5,Yes,Yes,Yes,Yes,No,Average,Illiterate
+8/2/2021 11:37,Md. Kobir Ali,39,3,1,1,AC5BS,AC5BS,1,Low,No,Yes,Mud_Built,No,2,2,Yes,No,Yes,No,Yes,Long,BC5
+8/2/2021 11:40,Moksed Gazi,62,6,2,1,AC5BS,Illiterate,3,Low,No,Yes,Brick_Built,Yes,3,3,No,No,No,No,No,Average,AC5BS
+8/2/2021 11:44,Ajger Ali,42,4,2,1,AC5BS,AC5BS,1,Medium,Yes,Yes,Brick_Built,No,12,10,No,No,No,No,No,Long,AH
+8/2/2021 11:48,Atier Gazi,57,6,3,1,Illiterate,Illiterate,1,High,No,Yes,Brick_Built,No,11,10,No,No,Yes,No,No,Average,AC5BS
+7/2/2021 20:33,Anisur Rahman,55,4,1,1,BC5,BC5,1,Low,No,Yes,Mud built,No,1.5,1,No,No,No,No,No,Average,AH
+8/2/2021 11:53,Mostofa,59,6,2,1,Illiterate,Illiterate,2,Medium,No,Yes,Mud_Built,No,3,2,No,No,No,No,No,Short,AC5BS
+8/2/2021 11:55,Islam Miya,62,6,2,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,Yes,1,2,No,Yes,No,No,No,Average,Illiterate
+8/2/2021 11:57,Nur Islam,42,4,2,1,Illiterate,Illiterate,1,Low,No,Yes,Brick_Built,No,2,2,No,Yes,Yes,No,No,Average,BC5
+8/2/2021 11:59,Abdul Gofur,54,5,3,1,Illiterate,BC5,4,Low,No,Yes,Brick_Built,Yes,3,2,Yes,Yes,Yes,No,No,Average,AC5BS
+8/2/2021 12:02,Aminur,57,6,3,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,1,2,No,Yes,Yes,No,No,Average,Illiterate
+8/2/2021 12:03,Zobber Ali,50,3,1,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,Yes,3,2.5,Yes,Yes,No,No,No,Average,AC5BS
+8/2/2021 12:05,Mojid Ali,47,6,4,1,AC5BS,AC5BS,1,Medium,Yes,Yes,Brick_Built,Yes,13,10,No,No,No,No,No,Long,AH
+8/2/2021 12:07,Nurul Gazi,66,4,2,1,Illiterate,Illiterate,3,Medium,No,Yes,Mud_Built,Yes,3,2,No,Yes,No,No,No,Average,AC5BS
+7/28/2021 23:58,Md. Shopikul Islam,40,4,2,1,Illiterate,Illiterate,2,Low,No,Yes,Brick built,No,3,3.5,Yes,No,No,No,No,Long,Illiterate
+8/2/2021 12:14,Akijuddin,75,10,6,1,ASBH,AC5BS,1,High,Yes,Yes,Brick_Built,Yes,30,28,No,No,No,No,No,Short,AH
+8/2/2021 12:21,Rajob Ali,46,6,3,1,AC5BS,Illiterate,1,Medium,No,Yes,Brick_Built,No,4,3,No,No,No,No,No,Average,ASBH
+8/2/2021 12:23,Shopikul Rahman,70,10,4,1,AC5BS,BC5,2,High,Yes,Yes,Brick_Built,Yes,20,19,No,No,No,No,No,Average,AH
+8/2/2021 12:25,Lalto Morol,55,3,1,1,ASBH,AC5BS,1,Low,Yes,Yes,Brick_Built,No,3,2,No,No,Yes,No,No,Short,AC5BS
+8/2/2021 12:32,Arijul Gain,60,10,6,2,AC5BS,ASBH,1,Medium,No,Yes,Brick_Built,No,3,2,No,Yes,Yes,No,No,Average,AC5BS
+8/2/2021 12:34,Kasem,50,5,3,1,AH,AC5BS,1,High,Yes,Yes,Brick_Built,Yes,8,7,No,No,No,No,No,Average,AH
+8/2/2021 12:38,Somser Gazi,60,5,2,1,BC5,Illiterate,1,Low,No,Yes,Brick_Built,No,3,3,Yes,No,No,No,No,Average,AC5BS
+8/2/2021 12:40,Ropikul,56,4,2,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,2,2,Yes,Yes,No,No,No,Average,BC5
+8/2/2021 12:43,Kurban Ali,55,7,2,1,AC5BS,AC5BS,1,High,Yes,Yes,Brick_Built,No,10,10,No,No,No,No,No,Short,AH
+7/29/2021 0:56,Md. Shamsurjjaman,50,4,2,1,BC5,BC5,1,Medium,No,Yes,Brick built,No,13,10,No,No,Yes,Yes,Yes,Long,ASBH
+7/1/2021 19:25,Md. Moksed  Ali,60,6,3,1,AC5BS,BC5,2,Medium,Yes,Yes,Brick built,No,5.5,3.5,Yes,Yes,No,No,No,Long,AH
+7/31/2021 1:13,Samad Ali,56,4,2,1,ASBH,AC5BS,1,High,Yes,Yes,Brick_Built,Yes,10,15,Yes,No,No,No,No,Average,AH
+7/31/2021 18:43,Aktarul Islam,50,4,2,1,Illiterate,BC5,1,Low,No,Yes,Brick_Built,No,2,2,No,No,No,No,No,Short,BC5
+7/31/2021 18:44,Shahajan Ali,61,5,3,2,Illiterate,Illiterate,2,Low,No,Yes,Brick_Built,No,1,2,Yes,Yes,Yes,Yes,Yes,Short,Illiterate
+7/31/2021 18:48,Faruk Ali,41,4,1,1,Illiterate,AC5BS,1,Low,No,Yes,Mud_Built,Yes,1,2.4,Yes,No,No,No,Yes,Long,Illiterate
+7/31/2021 18:49,Hobibor Rahman,55,4,2,1,Illiterate,BC5,2,Medium,Yes,Yes,Brick_Built,Yes,7,4,No,No,No,No,Yes,Average,AH
+7/31/2021 18:50,Hossain Ali,55,5,3,1,BC5,Illiterate,2,Low,No,Yes,Mud_Built,No,2,2,No,No,No,No,No,Short,BC5
+7/29/2021 0:00,Md. Amin ,65,5,3,1,Illiterate,Illiterate,1,Low,No,Yes,Brick built,No,0,2,Yes,Yes,Yes,No,No,Long,Illiterate
+8/2/2021 11:18,Soroar Rahman,46,5,3,1,BC5,BC5,2,Medium,No,Yes,Brick_Built,No,3,3,No,No,No,No,No,Average,AH
+8/2/2021 11:24,Adom Sofiullah,43,4,2,1,BC5,BC5,1,Medium,No,Yes,Brick_Built,No,4,3,No,No,No,Yes,No,Average,ASBH
+8/2/2021 11:30,Saiyeber Ali,62,6,2,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,Yes,1,2,No,Yes,No,Yes,No,Average,Illiterate
+8/2/2021 11:31,Nur Islam,63,7,5,1,Illiterate,Illiterate,2,Medium,No,Yes,Brick_Built,Yes,1,3,Yes,Yes,Yes,No,No,Long,Illiterate
+8/2/2021 11:37,Abdul khalek,56,7,5,1,ASBH,AC5BS,1,Low,No,Yes,Mud_Built,No,3,2,No,Yes,No,Yes,No,Long,BC5
+8/2/2021 11:40,Nur hossain,52,4,2,1,Illiterate,Illiterate,2,Low,No,Yes,Mud_Built,No,1,1,No,Yes,No,Yes,No,Long,Illiterate
+8/2/2021 11:44,Abdul Shobhan,60,5,3,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,1,3,Yes,Yes,No,No,Yes,Short,Illiterate
+8/2/2021 11:48,Unus Ali,70,4,2,1,AC5BS,BC5,1,Medium,No,Yes,Mud_Built,No,4,3,No,Yes,No,No,Yes,Average,ASBH
+6/24/2021 23:12,Abdul Roshid,54,4,2,1,ASBH,AC5BS,1,Medium,No,Yes,Brick built,Yes,7,4,No,No,No,No,No,Long,AH
+8/2/2021 11:57,MD:Shahidul Islam,72,10,7,1,Illiterate,Illiterate,1,Low,No,Yes,Brick_Built,No,1.5,2,Yes,Yes,No,No,Yes,Short,Illiterate
+7/29/2021 0:34,Atier Ali,49,4,2,1,Illiterate,Illiterate,1,Low,No,Yes,Brick built,No,3,2.7,No,Yes,Yes,No,No,Long,Illiterate
+7/27/2021 16:18,Abu Daud,61,9,3,1,AC5BS,Illiterate,3,Medium,No,Yes,Mud built,No,2,1.5,No,Yes,No,No,Yes,Average,ASBH
+8/2/2021 12:03,Md Jamal Hossain,50,5,2,1,BC5,Illiterate,1,Low,No,Yes,Mud_Built,No,2,2,Yes,Yes,No,No,No,Short,BC5
+8/2/2021 12:07,Insar Gazi,55,5,3,1,Illiterate,BC5,1,Low,No,Yes,Mud_Built,Yes,3,2,No,No,No,No,No,Average,AC5BS
+8/2/2021 12:09,Azi Morol,55,5,2,1,BC5,ASBH,2,Medium,Yes,Yes,Brick_Built,Yes,8,6,No,No,No,No,Yes,Average,AH
+8/2/2021 12:12,Kowsar Bisas,52,3,1,1,AC5BS,AC5BS,1,Medium,No,Yes,Brick_Built,No,4,4,No,No,No,No,No,Average,ASBH
+8/2/2021 12:14,Mosharraf Hossain,51,4,2,1,BC5,Illiterate,1,Low,No,Yes,Mud_Built,No,2,2,Yes,Yes,No,No,No,Average,BC5
+8/2/2021 12:16,Amzad Hossain,62,5,2,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,1,2,Yes,No,No,Yes,Yes,Long,Illiterate
+8/2/2021 12:23,Md.kader Gazi,66,4,2,1,Illiterate,Illiterate,3,Medium,No,Yes,Mud_Built,Yes,3,4,Yes,Yes,No,No,Yes,Long,AC5BS
+8/2/2021 12:25,Hamid Sordar,60,10,4,1,BC5,Illiterate,3,High,No,Yes,Brick_Built,Yes,2,3,No,No,Yes,No,Yes,Short,BC5
+8/2/2021 12:28,Irfan Ali,62,6,2,1,AC5BS,Illiterate,3,Low,No,Yes,Brick_Built,Yes,3,3.3,Yes,Yes,No,No,No,Long,AC5BS
+8/2/2021 12:30,Md Soriful Islam,47,4,2,1,BC5,BC5,1,High,Yes,Yes,Mud_Built,Yes,10,7,No,Yes,No,No,No,Short,AH
+7/25/2021 21:43,Ahad Gazi,42,4,2,1,ASBH,AC5BS,1,Medium,Yes,Yes,Brick built,No,2,1.1,No,No,No,No,No,Average,ASBH
+8/2/2021 12:34,Md Amir Hossain,45,5,3,1,BC5,BC5,1,Medium,No,Yes,Brick_Built,Yes,3,3,Yes,No,No,No,No,Average,AC5BS
+7/29/2021 0:30,Md. Israfil Ali,59,10,5,1,Illiterate,Illiterate,3,Low,No,Yes,Brick built,No,9,2.5,Yes,Yes,Yes,Yes,No,Long,BC5
+6/23/2021 23:18,Md. Khalek ,45,4,2,1,BC5,BC5,1,Low,No,Yes,Mud built,Yes,1.5,1,Yes,Yes,No,No,No,Long,AC5BS
+8/2/2021 12:38,Somser Gazi,60,5,2,1,BC5,Illiterate,1,Low,No,Yes,Brick_Built,No,3,6,Yes,No,No,No,No,Average,AC5BS
+8/2/2021 11:35,Imad Gazi,63,4,2,1,Illiterate,Illiterate,1,Low,No,Yes,Mud_Built,No,0.1,3,Yes,Yes,Yes,Yes,No,Average,Illiterate
+8/2/2021 11:35,Imad Gazi,57,4,2,1,BC5,Illiterate,1,Low,No,Yes,Mud_Built,No,0.6,5,Yes,Yes,Yes,Yes,No,Average,Illiterate
+8/2/2021 11:35,Imad Gazi,65,4,2,1,Illiterate,BC5,1,Low,No,Yes,Brick_Built,No,1,2,Yes,Yes,Yes,Yes,No,Average,Illiterate
